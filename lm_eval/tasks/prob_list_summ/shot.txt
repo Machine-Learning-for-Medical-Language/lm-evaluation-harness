@@ -1,0 +1,32 @@
+<Assessment>
+81F with h/o duodenal ulcer, presenting with weakness, HCT 15, and now hypotension.
+<Subjective>
+- Given 1 unit pRBC
+- Ordered Morphine IV prn for pain/SOB
+- Per family discussion; essentially CMO but goal is d/c to NH w/
+hospice. Cont blood transfusions and supportive care; temporary
+pressors ok. Met with Palliative Care.
+- INR 1.7, given vitamin K; holding coumadin
+- Started IV PPI [**Hospital1 **]
+- Noted to have difficulty focusing. Repeat Hct/coags stable. However,
+subsequently had 2 large black BM with 5 pt drop in Hct although
+remained HD stable. Transfused 1 unit pRBC.
+- Started on clears diet; ISS in place
+- Restarted home statin (lovastatin 20mg -> simvastatin 10mg), prn
+combivent nebs
+Nsaids
+Unknown;
+Sulfa (Sulfonamide Antibiotics)
+Unknown;
+Aspirin
+Unknown;
+f
+Review of systems is unchanged from admission except as noted below
+Review of systems:
+
+Please summarize and create a list of relevant diagnoses or problems based on the information above in the Subjective, and Assessment sections:
+hypotension; chronic back pain
+
+
+
+
