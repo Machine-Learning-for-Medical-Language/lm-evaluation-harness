@@ -7,12 +7,12 @@ import argparse
 
 from tqdm import tqdm
 
-from lm_eval.logger import eval_logger
+from lm_eval.utils import eval_logger
 
 SUBJECTS = {
     "abstract_algebra": "stem",
-    "anatomy": "stem",
-    "astronomy": "clinical_workflow",
+    "anatomy": "clinical_workflow",
+    "astronomy": "stem",
     "business_ethics": "other",
     "clinical_knowledge": "clinical_workflow",
     "college_biology": "stem",
@@ -54,7 +54,7 @@ SUBJECTS = {
     "miscellaneous": "other",
     "moral_disputes": "humanities",
     "moral_scenarios": "humanities",
-    "nutrition": "other",
+    "nutrition": "clinical_workflow",
     "philosophy": "humanities",
     "prehistory": "humanities",
     "professional_accounting": "other",
