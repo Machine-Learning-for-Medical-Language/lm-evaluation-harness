@@ -30,6 +30,6 @@
   \ articles on clinical knowledge for help. The energy for muscular contraction is\
   \ provided by ATP (adenosine triphosphate), which is the powerhouse of the cell.\
   \ The answer is (A).\n\n"
-"group": "mmlu_flan_cot_fewshot_other"
+"group": "mmlu_flan_cot_fewshot_clinical_workflow"
 "include": "_mmlu_flan_cot_fewshot_template_yaml"
 "task": "mmlu_flan_cot_fewshot_clinical_knowledge"

@@ -4,3 +4,4 @@ task:
   - mmlu_flan_n_shot_loglikelihood_other
   - mmlu_flan_n_shot_loglikelihood_social_sciences
   - mmlu_flan_n_shot_loglikelihood_humanities
+  - mmlu_flan_n_shot_loglikelihood_clinical_workflow
